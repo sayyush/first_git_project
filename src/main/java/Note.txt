@@ -1,0 +1,3 @@
+****** GIT DAY1 *******
+1.Create Porject
+2. Create a GITHUB REPOSITORY
