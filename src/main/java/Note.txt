@@ -1,3 +1,4 @@
 ****** GIT DAY1 *******
-1.Create Porject
+1.Create Project
 2. Create a GITHUB REPOSITORY
+..... devami var
